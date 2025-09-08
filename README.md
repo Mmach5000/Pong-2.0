@@ -1,3 +1,5 @@
+Here's the web version: https://mmach5000.itch.io/pong-2
+
 It's Pong, but with a twist. Every 15 seconds, one of 8 special event will start (list below). These events will make the game harder and more interesting, helping you beat your opponent, or lose for the tenth time.
 
 List of events:
